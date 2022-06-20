@@ -1,6 +1,7 @@
 # Twitter: Infraestructura e Historia.
 ### *Servicios Web de Altas Prestaciones 21/22*
 
+![logo2](twint/images/logo2.png)
 ### Motivación
 En este trabajo hemo tratado de esbozar un poco los aspectos más relevantes, tanto a nivel ingienieril como sociológico, de la red social Twitter. Separado en una memoria donde profundizamos en todos los aspectos de nuestro trabajo y una pequea demostración de Scrapping a Twitter con una demostración en Python.
 
@@ -14,3 +15,4 @@ En cualquier entorno con python3 instalado ejecutamos `pip3 install twint`  y co
 Basta con clonar nuestro repositorio, ejecutar el archivo main y nos permite buscar de una cuenta por palabras clave, por ejemplo.
 
 El programa de ejemplo es muy sencillo, es mucho más potente funcionar por la propia línea de comandos de Twint.
+
