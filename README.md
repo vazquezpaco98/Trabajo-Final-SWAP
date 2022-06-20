@@ -1,9 +1,14 @@
 # Twitter: Infraestructura e Historia.
-### *Servicios Web de Altas Prestaciones 21/22*
+### *Sistemas Web de Altas Prestaciones 21/22*
 
 ![logo2](twint/images/logo2.png)
 ![logo](twint/images/logoo.png)
 ![logo2](twint/images/et.png)
+### Contexto Académico
+
+Este trabajo se encuadra como trabajo o proyecto final de la asignatura Sistemas Web de Altas PRestaciones, una optativa de mención de la Escuela Técnica Superior de Ingeniería Informática y Telecomunicaciones dependiente de la Universidad de Granada, Andalucía, España.
+
+Mención especial a mi compañero Aitor Jiménez Segura. Este trabajo está realizado por los dos de forma conjunta.
 ### Motivación
 En este trabajo hemo tratado de esbozar un poco los aspectos más relevantes, tanto a nivel ingienieril como sociológico, de la red social Twitter. Separado en una memoria donde profundizamos en todos los aspectos de nuestro trabajo y una pequea demostración de Scrapping a Twitter con una demostración en Python.
 
