@@ -2,6 +2,8 @@
 ### *Servicios Web de Altas Prestaciones 21/22*
 
 ![logo2](twint/images/logo2.png)
+![logo](twint/images/logoo.png)
+![logo2](twint/images/et.png)
 ### Motivación
 En este trabajo hemo tratado de esbozar un poco los aspectos más relevantes, tanto a nivel ingienieril como sociológico, de la red social Twitter. Separado en una memoria donde profundizamos en todos los aspectos de nuestro trabajo y una pequea demostración de Scrapping a Twitter con una demostración en Python.
 
