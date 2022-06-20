@@ -18,3 +18,5 @@ Basta con clonar nuestro repositorio, ejecutar el archivo main y nos permite bus
 
 El programa de ejemplo es muy sencillo, es mucho más potente funcionar por la propia línea de comandos de Twint.
 
+El código que merece la pena leer se encuentra en main.py
+
